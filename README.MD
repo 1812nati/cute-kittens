@@ -4,4 +4,4 @@
 - HTML
 - CSS
 ---
-LINK:[link to project](htttps://)
+link: [link to project](https://)
